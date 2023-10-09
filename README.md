@@ -1,5 +1,6 @@
 # ipa_Permission_Scanner
 IOS的ipa包权限扫描器，可以快速获取ipa包权限使用等信息。
+适用于IOS系统的iPhone和iPad设备的ipa应用程序。
 
 ## Usage
 ```
