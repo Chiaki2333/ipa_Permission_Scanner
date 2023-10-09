@@ -1,0 +1,2 @@
+# ipa_Permission_Scanner
+IOS的ipa包权限扫描器
